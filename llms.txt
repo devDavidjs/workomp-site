@@ -1,0 +1,103 @@
+# Workomp
+
+> Workout motivation app: a virtual mascot grows with every honoured training session and gets tired when you skip. Weekly plan, exercise and record tracking, streak, iPhone widgets.
+
+Last updated: 2026-09-25. Canonical site: https://workomp.app/ (French) · https://workomp.app/en/ (English).
+
+## Key facts
+
+- **Platform**: iPhone (iOS 17+), Home Screen and Lock Screen widgets
+- **Price**: Free, no ads · Premium €4.99/month or €44.99/year, cancel anytime
+- **Languages**: French, English, German, Spanish, Italian
+- **Offline**: Check in sessions without a connection, synced afterwards
+- **Apple Health**: Workouts, active energy and steps; coins for walking (only the step tier reached is sent)
+- **Data**: Never resold, no advertising trackers, delete your account in one tap
+- **Publisher**: David Calonne — contact@davidcalonne.fr
+- **Version**: 1.0.0 (released 2026-09-22)
+
+## What the app does
+
+- **Weekly plan as a calendar** — your days, your durations, sessions can be moved within the week.
+- **Session as you go** — start, add exercises between sets, finish whenever you want.
+- **165 exercises + your own** — weight, reps, distance, duration. Records detected automatically.
+- **Honest stats** — minutes, volume, calories, progress per exercise over 8 weeks (26 with Premium).
+- **Offline** — check in at the gym without signal, it syncs later.
+- **Quick sessions** — save your favourite workouts and start them again in one tap from home.
+- **Five languages** — English, French, German, Spanish, Italian.
+
+## How it works
+
+1. **Pick your days** Monday, Wednesday, Saturday? You set the rhythm and a target duration. Workomp plans two weeks ahead and nudges you in the evening when a session is about to slip.
+2. **Train, then check in** Duration, intensity, calories if you like. Add your exercises and sets: personal records are detected automatically. You can also start a session and fill it in as you go.
+3. **Watch it grow** XP, levels, ten growth stages, coins to spend on hats, glasses and wings. And a streak that climbs as long as you keep your appointments.
+
+## Pages
+
+- [Français](https://workomp.app/): landing page in Français
+- [English](https://workomp.app/en/): landing page in English
+- [Deutsch](https://workomp.app/de/): landing page in Deutsch
+- [Español](https://workomp.app/es/): landing page in Español
+- [Italiano](https://workomp.app/it/): landing page in Italiano
+- [Privacy policy](https://workomp.app/en/legal/privacy/): what is stored, why, and for how long
+- [Terms of use](https://workomp.app/en/legal/terms/): subscription, account deletion, applicable law
+- [Politique de confidentialité](https://workomp.app/legal/privacy/) · [Conditions d'utilisation](https://workomp.app/legal/terms/)
+
+## FAQ
+
+### What is Workomp?
+
+Workomp is a free iPhone app for workout motivation: you pick your training days, check in your sessions, and a virtual mascot grows with every session you honour — it gets tired when you drop off. The app also tracks your exercises (165 in the catalogue), personal records, stats and streak, with iPhone widgets. Publisher: David Calonne. Price: free, optional Premium at €4.99/month.
+
+### Is Workomp free?
+
+Yes. The plan, sessions, exercises, records, streak and widgets are free, with no ads. Premium (€4.99 per month or €44.99 per year, cancel anytime) adds bonuses: boosted XP and coins, streak repair, holiday pause, exclusive colours, several mascots and a longer history.
+
+### What happens if I miss a session?
+
+You have until the next day to check it in late. After that the session is missed: the streak stops, unless a streak freeze covers it. Two missed sessions in two weeks make the mascot tired; ten days without a session leave it neglected. It gets back in shape as soon as you resume.
+
+### Can I cheat by logging fake sessions?
+
+An unplanned session earns less XP and does not feed the streak: only planned, honoured sessions make the streak climb. The point is being honest with yourself, not collecting points.
+
+### Is my data private?
+
+Workomp only stores what runs the app: account, plan, sessions and exercises. Your email address is encrypted in the database, nothing is sold or used for advertising, and you can delete your account in one tap from your profile.
+
+### Which devices does Workomp run on?
+
+On iPhone, with small, medium and large home-screen widgets. The app is available in English, French, German, Spanish and Italian.
+
+### Is Workomp available on Android?
+
+Not yet: Workomp is an iPhone app (iOS 17 and later), with Home Screen and Lock Screen widgets. No Android version is announced.
+
+## FAQ (français)
+
+### Qu'est-ce que Workomp ?
+
+Workomp est une application iPhone gratuite de motivation sportive : tu choisis tes jours d'entraînement, tu valides tes séances, et une mascotte virtuelle grandit à chaque séance honorée — elle se fatigue quand tu décroches. L'app suit aussi tes exercices (165 au catalogue), tes records, tes statistiques et ta série, avec des widgets iPhone. Éditeur : David Calonne. Prix : gratuite, Premium optionnel à 4,99 €/mois.
+
+### Workomp est-elle gratuite ?
+
+Oui. Le plan, les séances, les exercices, les records, la série et les widgets sont gratuits, sans publicité. Premium (4,99 € par mois ou 44,99 € par an, sans engagement) ajoute des bonus : XP et pièces majorés, réparation de série, pause vacances, couleurs exclusives, plusieurs mascottes et un historique plus long.
+
+### Que se passe-t-il si je rate une séance ?
+
+Tu as jusqu'au lendemain pour la valider en retard. Passé ce délai, la séance est manquée : la série s'arrête, sauf si une protection de série la gèle. Deux séances manquées sur deux semaines fatiguent la mascotte ; dix jours sans séance la laissent délaissée. Elle se remet en forme dès que tu reprends.
+
+### Peut-on tricher en validant des séances fictives ?
+
+Une séance non planifiée rapporte moins d'XP et n'alimente pas la série : seules les séances prévues et honorées font grimper la série. Le but est d'être honnête avec soi-même, pas de collectionner des points.
+
+### Mes données sont-elles privées ?
+
+Workomp stocke seulement ce qui fait tourner l'app : compte, plan, séances et exercices. L'adresse e-mail est chiffrée en base, rien n'est revendu ni utilisé pour de la publicité, et le compte se supprime en un tap depuis le profil.
+
+### Sur quels appareils fonctionne Workomp ?
+
+Sur iPhone, avec des widgets petit, moyen et grand pour l'écran d'accueil. L'app est disponible en français, anglais, allemand, espagnol et italien.
+
+### Workomp existe-t-elle sur Android ?
+
+Pas encore : Workomp est une app iPhone (iOS 17 et plus), avec des widgets pour l'écran d'accueil et l'écran verrouillé. Une version Android n'est pas annoncée.
