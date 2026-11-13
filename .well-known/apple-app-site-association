@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "7NA42V892V.com.workomp.app"
+        ],
+        "components": [
+          {
+            "/": "/s/",
+            "exclude": true,
+            "comment": "Page de secours du site"
+          },
+          {
+            "/": "/s/*",
+            "comment": "Séance partagée par lien"
+          },
+          {
+            "/": "/a/*",
+            "comment": "Lien d’ami : ajouter un ami"
+          }
+        ]
+      }
+    ]
+  }
+}
